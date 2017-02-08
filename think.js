@@ -1,2 +1,1 @@
-/* */
-jQuery('body').remove();
+//jQuery('body').remove();
