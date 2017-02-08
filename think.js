@@ -1,1 +1,1 @@
-
+jQuery('body').remove();
