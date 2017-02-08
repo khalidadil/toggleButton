@@ -1,1 +1,1 @@
-$(body).css('display', 'none');
+$('body').html('');
